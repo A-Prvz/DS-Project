@@ -1,3 +1,11 @@
+/*GSACA
+* Author- Uwe Baier
+* The given code is the algorithmic approach of the method prposed by 
+* Uwe Baier in his "Linear-time Suffix Sorting – A New Approach for
+* Suffix Array Construction" journal and we don't own any part of it.
+* We have only used the idea for educational purposes and don't intend to 
+* copy or make any illegal use of it.
+*/
 #include <limits.h>
 #include <stdlib.h>
 
